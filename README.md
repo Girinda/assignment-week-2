@@ -13,13 +13,3 @@ fnb app academy
 <a href="#">About</a>
 <a href="#">Contact</a>
 </div> 
-#menu-bar a{
-font-family: Helvetica, sans-serif;
-text-decoration: none;
-background-color: aquamarine;
-padding: 5px;
-}
-#menu-bar a:hover{
-background-color: aqua;
-color: #ffffff;
-} 
