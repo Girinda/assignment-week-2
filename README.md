@@ -8,16 +8,6 @@ fnb app academy
 <a href="#">About</a>
 <a href="#">Contact</a>
 </body>
-a{
-font-family : Helvetica, sans-serif;
-text-decoration : none;
-background-color: aquamarine;
-padding : 5px;
-}
-a:hover{
-background-color: aqua;
-color : #ffffff;
-} 
 <div id="menu-bar">
 <a href="index.html">Home</a>
 <a href="#">About</a>
